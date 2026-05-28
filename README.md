@@ -1,5 +1,4 @@
 
-```
 # 🖨️ Folder-AutoPrint-PDF
 
 **Outil léger d'impression automatique de PDF avec interface graphique**
